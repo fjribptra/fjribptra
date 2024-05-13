@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fajri Bagja Putra. you can call me Fajri
+## My name is Fajri Bagja Putra. you can call me Fajri
 
 - 🔭 I’m currently working on django ecosystem as a micro frontend
 - 🌱 I’m currently learning nextjs and laravel with the ecosystem

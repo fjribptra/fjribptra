@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning nextjs and laravel with the ecosystem on other side
 - 👯 I’m looking to collaborate on opensource project
 - 🤔 I’m looking for ... 
-- 💬 Ask me about how to ... ???
+- 💬 Ask me about anything
 - 📫 How to reach me: my socials account available in bio
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i don't like ...

@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on opensource project
 - 🤔 I’m looking for ... 
 - 💬 Ask me about anything
-- 📫 How to reach me: my socials account available in below
+- 📫 How to reach me: my socials account are available in below
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i don't like ...
 

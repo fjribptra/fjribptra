@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on django ecosystem as a micro frontend
 - 🌱 I’m currently learning nextjs and laravel with the ecosystem on other side
 - 👯 I’m looking to collaborate on opensource project
-- 🤔 I’m looking for ... ??
+- 🤔 I’m looking for ... 
 - 💬 Ask me about how to ... ???
 - 📫 How to reach me: my socials account available in bio
 - 😄 Pronouns: he/him

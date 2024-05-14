@@ -20,6 +20,6 @@
 
 ## 🛠️ Tools and Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,docker,express,git,github,js,html,css,nodejs,npm,php,postman,tailwind,vite,vue,wordpress,linux,sass,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,docker,express,git,github,js,html,css,nodejs,npm,php,postman,tailwind,vite,vue,wordpress,linux,sass,mysql,laravel)](https://skillicons.dev)
 
 

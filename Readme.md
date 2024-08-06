@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-## My name is Fajri. 
+## My name is Fajri Bagja Putra. 
 
 - 🔭 I’m currently working on django ecosystem as a micro frontend
 - 🌱 I’m currently learning nextjs and laravel with the ecosystem on other side

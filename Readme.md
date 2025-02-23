@@ -2,19 +2,16 @@
 # Hi there, you can call me Fajri 👋
 
 ## About me
-- 🔭 I’m working on django ecosystem as a micro frontend previously
-- 🌱 I’m currently learning nextjs and laravel with the ecosystem on other side
-- 👯 I’m looking to collaborate on opensource project
-- 🤔 I’m looking for ... 
-- 💬 Ask me about anything
-- 📫 How to reach me: my socials account are available in below
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i don't like ...
+I'm passionate about web development and design. Familiar with modern Front End and Back End framework such as NextJS ( ReactJS ) and Node JS using Javascript or Typescript.
+
+Fundamental understanding of mobile first design concepts, API implemetation and search engine optimization (SEO).
+
+I'm always eager to take on new challenges and collaborate on exciting projects . Let's connect and explore opportunities together.
 
 
 ## 🔗 Socials
-[![youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@fjribptra)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fjribptra/)
+[![youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@pajribp)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pajribp/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajri-bagja-putra-56aa2b28b)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fjribptra/)
 [![tiktok](https://img.shields.io/badge/Tiktok-grey?style=for-the-badge&logo=tiktok)](https://tiktok.com/@fjribptra)
